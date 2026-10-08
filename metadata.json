@@ -1,0 +1,6 @@
+{
+  "name": "Real Life Reels",
+  "description": "Authentication and login screen for Real Life Reels with mobile OTP, Google Sign-In, and email/password login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
